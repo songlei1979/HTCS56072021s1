@@ -28,10 +28,10 @@ $i++;
 /* Authentication type */
 //mysql://sf6mcpjg9mp3fqnc:zv91vgnxsb4bggba@kf3k4aywsrp0d2is.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/hwedspsyvc8ffi0y
 $cfg['Servers'][$i]['auth_type'] = 'config';
-$cfg['Servers'][$i]['user'] = 'ex66kxnbipkj0w9x'; //change to yours
-$cfg['Servers'][$i]['password'] = 'ci1426xlktbycz34'; //change to yours
+$cfg['Servers'][$i]['user'] = 'u5bjygxzfk20gi56'; //change to yours
+$cfg['Servers'][$i]['password'] = 'owc8txf5hia2tx4b'; //change to yours
 /* Server parameters */
-$cfg['Servers'][$i]['host'] = 'ik1eybdutgxsm0lo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'; //change to yours
+$cfg['Servers'][$i]['host'] = 'bmlx3df4ma7r1yh4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'; //change to yours
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 

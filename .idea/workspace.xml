@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add5b0ea-d39c-4ad9-9723-9d14cb749ea0" name="Default Changelist" comment="" />
+    <list default="true" id="add5b0ea-d39c-4ad9-9723-9d14cb749ea0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/phpMyAdminJamieProduct/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpMyAdminJamieProduct/config.inc.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,7 +58,7 @@
       <workItem from="1621393305513" duration="654000" />
       <workItem from="1622077555660" duration="2717000" />
       <workItem from="1622159435513" duration="1000" />
-      <workItem from="1622496912149" duration="2035000" />
+      <workItem from="1622496912149" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="composer.json">
       <created>1620779705660</created>
